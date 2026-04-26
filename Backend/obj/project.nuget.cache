@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+090tf+GHmQ=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/Bitasmbl_my-dotnet-be-test_910_301/Bitasmbl_my-dotnet-be-test_910_301/Backend/Backend.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
